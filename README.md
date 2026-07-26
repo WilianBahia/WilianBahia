@@ -2,7 +2,7 @@
 
 **`GreenBelt lean Six Sigma - Futuro Ciêntista de Dados`**
 
-Me chamo Wilian Bahia, tenho 44 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência de Dados e Inteligência Artificial na UVA. Sou apaixonado por mercado Financeiro, e insusiasta no desenvolvimento de robos para Trade.
+Me chamo Wilian Bahia, tenho 44 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência de Dados e Inteligência Artificial na UVA. Sou apaixonado por mercado Financeiro, e intusiasta no desenvolvimento de robos para Trade.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
